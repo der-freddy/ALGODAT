@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/freddy/Documents/Studium/B03/algodat/ueb01/main.cpp
+stack.hpp
+/home/freddy/Documents/Studium/B03/algodat/ueb01/stack.hpp
+queue.hpp
+/home/freddy/Documents/Studium/B03/algodat/ueb01/queue.hpp
+memory
+-
+iostream
+-
+ctype.h
+-
+
+/home/freddy/Documents/Studium/B03/algodat/ueb01/queue.hpp
+list
+-
+
+/home/freddy/Documents/Studium/B03/algodat/ueb01/stack.hpp
+list
+-
+
