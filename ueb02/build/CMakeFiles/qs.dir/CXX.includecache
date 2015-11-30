@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/freddy/Documents/Studium/B03/ALGODAT/ueb02/quicksort.cpp
+memory
+-
+iostream
+-
+vector
+-
+
